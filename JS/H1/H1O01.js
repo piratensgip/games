@@ -14,6 +14,7 @@ function draw() {
   
   // groene cirkel zonder rand
   
+  
   noStroke();
   fill('white');
   ellipse(225,225,300);
